@@ -1,0 +1,30 @@
+body
+{
+  background-color: black;
+  margin-top: 0px;
+  border-top: 0px;
+  background-attachment: fixed;
+}
+
+img{
+margin-top: 0px;
+position:static;
+float: right;
+}
+
+.navbar
+{
+  margin-top: 100px;
+  width: 100%;
+}
+
+
+.collapse navbar-collapse
+{
+
+  display: block;
+}
+
+ul {
+margin-right: 2%;
+}
